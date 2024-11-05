@@ -6,7 +6,7 @@ PY1010 - Arbeidskrav 1
 
 # Innledning
 
-print ("Dette programmet beregner totalkostnadene for elbil og bensinbil, samt årlig driftsdifferanse")
+print("Dette programmet beregner totalkostnadene for elbil og bensinbil, samt årlig driftsdifferanse")
 print("")
 kmaar = float(input("Hvor mange km kjører du pr. år? "))
 
