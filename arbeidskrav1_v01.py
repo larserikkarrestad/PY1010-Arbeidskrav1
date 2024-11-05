@@ -35,9 +35,9 @@ totalkost_bensin = forsikring_bensin + trafikkforsikring_aar + drivstoff_bensin 
 differanse = totalkost_bensin - totalkost_el
 
 
-print ("Når du kjører ", kmaar, " km pr. år, så er utgiftene for elbil og bensinbil slik: ")
+print("Når du kjører ", kmaar, " km pr. år, så er utgiftene for elbil og bensinbil slik: ")
 print("")
 print("For elbil: ", totalkost_el)
-print ("For bensinbil: ", totalkost_bensin)
+print("For bensinbil: ", totalkost_bensin)
 print("")
 print("Kostnadsdifferansen pr. år er kr. ", differanse)
